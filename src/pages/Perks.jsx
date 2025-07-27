@@ -35,7 +35,7 @@ const Perks = () => {
     {
       name: "Sarah Johnson",
       role: "Software Engineer at Google",
-      content: "The Unspecified Community gave me the skills and confidence I needed to land my dream job. The mentorship program was invaluable.",
+      content: "The Community gave me the skills and confidence I needed to land my dream job. The mentorship program was invaluable.",
       avatar: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=100"
     },
     {

@@ -21,20 +21,20 @@ const FAQ = () => {
     {
       id: 1,
       category: 'general',
-      question: "What is The Unspecified Community?",
-      answer: "The Unspecified Community is a girls-powered tech and design community..."
+      question: "What is the Community?",
+      answer: "The Community is a girls-powered tech and design community..."
     },
     {
       id: 2,
       category: 'membership',
-      question: "Who can join The Unspecified Community?",
+      question: "Who can join the Community?",
       answer: "Our community is primarily designed for college students..."
     },
     {
       id: 3,
       category: 'membership',
       question: "How much does it cost to join?",
-      answer: "Membership in The Unspecified Community is completely free!..."
+      answer: "Membership in the Community is completely free!..."
     },
     {
       id: 4,
@@ -63,8 +63,8 @@ const FAQ = () => {
     {
       id: 8,
       category: 'general',
-      question: "What makes Unspecified 3.0 different?",
-      answer: "Unspecified 3.0 represents our evolution to a portfolio-driven..."
+      question: "What makes Community 3.0 different?",
+      answer: "Community 3.0 represents our evolution to a portfolio-driven..."
     },
     {
       id: 9,

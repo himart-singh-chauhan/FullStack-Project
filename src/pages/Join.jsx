@@ -78,7 +78,7 @@ const Join = () => {
                 <CheckCircle className="h-24 w-24 text-green-500 mx-auto mb-6" />
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">Application Submitted!</h2>
                 <p className="text-xl text-gray-600 mb-8">
-                  Thank you for applying to join The Unspecified Community. We'll review your application and get back to you within 48 hours.
+                  Thank you for applying to join the Community. We'll review your application and get back to you within 48 hours.
                 </p>
                 <div className="bg-gray-50 p-8 rounded-lg max-w-2xl mx-auto">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">What's Next?</h3>

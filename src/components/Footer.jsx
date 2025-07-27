@@ -14,7 +14,7 @@ const Footer = () => {
               <div className="bg-red-600 p-2 rounded-lg">
                 <Users className="h-6 w-6 text-white" />
               </div>
-              <span className="text-lg font-bold">The Unspecified Community</span>
+              <span className="text-lg font-bold">Community</span>
             </div>
             <p className="text-gray-400">
               Girls-powered tech & design community for creativity, code, and collaboration.
@@ -54,7 +54,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-red-600" />
-                <span className="text-gray-400">hello@unspecified.community</span>
+                <span className="text-gray-400">hello@community.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-red-600" />
@@ -100,7 +100,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 The Unspecified Community. All rights reserved.</p>
+          <p>&copy; 2024 Community. All rights reserved.</p>
         </div>
       </div>
     </footer>

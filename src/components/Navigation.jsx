@@ -53,9 +53,9 @@ const Navigation = () => {
             </motion.div>
             <div className="flex flex-col">
               <span className="text-xl font-bold text-gray-900 group-hover:text-red-600 transition-colors">
-                The Unspecified
+                Community
               </span>
-              <span className="text-xs text-gray-500 -mt-1">Community</span>
+              <span className="text-xs text-gray-500 -mt-1">Platform</span>
             </div>
           </Link>
 

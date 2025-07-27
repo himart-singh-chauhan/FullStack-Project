@@ -97,7 +97,7 @@ const About = () => {
               className="text-center mb-16"
             >
               <h2 className="text-4xl font-bold text-gray-900 mb-4">
-                Introducing <span className="text-red-600">Unspecified 3.0</span>
+                Introducing <span className="text-red-600">Community 3.0</span>
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 Our latest evolution focuses on portfolio-driven, skills-first approach with real client work and industry partnerships.
