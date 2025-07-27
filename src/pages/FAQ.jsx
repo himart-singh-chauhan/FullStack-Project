@@ -22,7 +22,7 @@ const FAQ = () => {
       id: 1,
       category: 'general',
       question: "What is the Community?",
-      answer: "The Community is a girls-powered tech and design community..."
+      answer: "The Community is a student-powered tech and design community..."
     },
     {
       id: 2,

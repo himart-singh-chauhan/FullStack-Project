@@ -106,7 +106,7 @@ const Hero = () => {
               transition={{ delay: 0.3, duration: 0.8 }}
               className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight"
             >
-              <span className="text-red-600">Girls-powered</span> tech &
+              <span className="text-red-600">Student-powered</span> tech &
               <br />
               <motion.span
                 animate={{ backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"] }}

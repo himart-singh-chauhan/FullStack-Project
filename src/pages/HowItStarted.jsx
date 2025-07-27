@@ -75,7 +75,7 @@ const HowItStarted = () => {
               >
                 <h2 className="text-4xl font-bold text-gray-900">The Beginning</h2>
                 <p className="text-lg text-gray-600">
-                  It all started in 2020 when five students from different backgrounds came together with a shared vision: to create a supportive, inclusive community where women in tech could thrive, learn, and grow together.
+                  It all started in 2020 when five students from different backgrounds came together with a shared vision: to create a supportive, inclusive community where students in tech could thrive, learn, and grow together.
                 </p>
                 <p className="text-lg text-gray-600">
                   What began as informal study sessions and coding meetups has evolved into a comprehensive platform that empowers hundreds of students across the country.
@@ -149,7 +149,7 @@ const HowItStarted = () => {
             >
               <h2 className="text-4xl font-bold mb-6">Looking to the Future</h2>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-8">
-                Our journey is far from over. We're committed to expanding our reach, enhancing our programs, and continuing to empower the next generation of female leaders in technology.
+                Our journey is far from over. We're committed to expanding our reach, enhancing our programs, and continuing to empower the next generation of tech leaders.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
                 <div className="text-center">

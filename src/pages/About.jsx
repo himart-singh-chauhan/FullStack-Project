@@ -63,7 +63,7 @@ const About = () => {
                   <h2 className="text-3xl font-bold text-gray-900">Our Mission</h2>
                 </div>
                 <p className="text-lg text-gray-600">
-                  To empower the next generation of female leaders in technology and design by providing hands-on learning experiences, mentorship, and a supportive community that fosters creativity and innovation.
+                  To empower the next generation of tech leaders by providing hands-on learning experiences, mentorship, and a supportive community that fosters creativity and innovation.
                 </p>
               </motion.div>
 
@@ -79,7 +79,7 @@ const About = () => {
                   <h2 className="text-3xl font-bold text-gray-900">Our Vision</h2>
                 </div>
                 <p className="text-lg text-gray-600">
-                  A world where women are equally represented in technology and design fields, leading innovation and creating solutions that make a positive impact on society.
+                  A world where students are equally represented in technology and design fields, leading innovation and creating solutions that make a positive impact on society.
                 </p>
               </motion.div>
             </div>

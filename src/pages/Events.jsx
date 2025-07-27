@@ -44,7 +44,7 @@ const Events = () => {
     },
     {
       id: 3,
-      title: "Women in Tech Conference",
+      title: "Students in Tech Conference",
       date: "2024-04-10",
       time: "10:00 AM - 6:00 PM",
       location: "New York, NY",
@@ -52,7 +52,7 @@ const Events = () => {
       maxAttendees: 300,
       type: "conference",
       image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=400",
-      description: "Annual conference celebrating women leaders in technology.",
+      description: "Annual conference celebrating student leaders in technology.",
       featured: false
     },
     {

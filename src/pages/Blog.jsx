@@ -5,11 +5,11 @@ import AnimatedSection from '../components/AnimateSection';
 
 const blogPosts = [
   {
-    title: 'The Future of Women in Tech',
+    title: 'The Future of Students in Tech',
     date: 'July 15, 2024',
     readTime: '5 min read',
     category: 'Inspiration',
-    image: 'https://source.unsplash.com/600x400/?technology,women',
+    image: 'https://source.unsplash.com/600x400/?technology,students',
   },
   {
     title: 'Top 10 UI/UX Trends in 2024',

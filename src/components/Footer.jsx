@@ -17,7 +17,7 @@ const Footer = () => {
               <span className="text-lg font-bold">Community</span>
             </div>
             <p className="text-gray-400">
-              Girls-powered tech & design community for creativity, code, and collaboration.
+              Student-powered tech & design community for creativity, code, and collaboration.
             </p>
           </div>
 
