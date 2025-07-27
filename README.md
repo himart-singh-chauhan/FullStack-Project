@@ -1,4 +1,33 @@
-# React + Vite
+# Main Project - Full Stack Application
+
+This is a modern full-stack web application built with React and Vite, showcasing various features and functionalities.
+
+## Features
+- Responsive design with Tailwind CSS
+- Smooth animations with Framer Motion
+- Modern React patterns and hooks
+- Component-based architecture
+- Fast development with Vite
+
+## Technologies Used
+- React 19
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router Dom
+
+## Setup and Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
